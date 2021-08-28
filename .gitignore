@@ -25,3 +25,4 @@ mysql/log/*
 !mysql/log/.gitkeep
 html/*
 html/.gitkeep
+テーマ/*
