@@ -23,5 +23,5 @@ mysql/data/*
 !mysql/data/.gitkeep
 mysql/log/*
 !mysql/log/.gitkeep
-wp-content/*
-wp-content/.gitkeep
+html/*
+html/.gitkeep
